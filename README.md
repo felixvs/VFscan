@@ -1,2 +1,2 @@
 # VFscan
-This is a VBA macro that looks for errors in the VF files
+This is a VBA macro that looks for errors in the VF files.
